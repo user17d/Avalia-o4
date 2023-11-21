@@ -1,0 +1,3 @@
+C:/Users/Petrus Henrick/CLionProjects/Avaliação 4/Questao4/cmake-build-debug/CMakeFiles/Questao4.dir
+C:/Users/Petrus Henrick/CLionProjects/Avaliação 4/Questao4/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Petrus Henrick/CLionProjects/Avaliação 4/Questao4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
